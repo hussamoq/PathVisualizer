@@ -1,0 +1,10 @@
+﻿  MainFrame.cpp
+C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\VisualizingPathFindingAlgms\MainFrame.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\VisualizingPathFindingAlgms\MainFrame.cpp(159,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\VisualizingPathFindingAlgms\MainFrame.cpp(345,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\VisualizingPathFindingAlgms\MainFrame.cpp(391,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\VisualizingPathFindingAlgms\MainFrame.cpp(452,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\VisualizingPathFindingAlgms\MainFrame.cpp(495,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\VisualizingPathFindingAlgms\MainFrame.cpp(572,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\VisualizingPathFindingAlgms\MainFrame.cpp(645,21): warning C4018: '<': signed/unsigned mismatch
+  VisualizingPathFindingAlgms.vcxproj -> C:\Users\Hussa\Desktop\VS Code Projects\C++ Mini Projects\VisualizingPathFindingAlgms\Debug\VisualizingPathFindingAlgms.exe
